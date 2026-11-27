@@ -4,13 +4,13 @@
 
 Welcome to **Code With Java**! 
 
-This repository contains my Java programs, coding exercises, and problem-solving implementations as I strengthen my programming fundamentals and prepare for software development opportunities.
+This repository documents my journey of learning Java, strengthening programming fundamentals, and improving my problem-solving skills through consistent coding practice.
 
-My goal is to build a strong foundation in **Core Java, Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), and Advanced Problem Solving** through consistent coding practice.
+I am building a strong foundation in **Core Java, Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), and competitive programming concepts** while preparing for software development opportunities and technical interviews.
 
 ---
 
-## 🎯 Repository Objectives
+##  Repository Objectives
 
 - Strengthen Java programming fundamentals.
 - Understand and implement Object-Oriented Programming concepts.
@@ -18,6 +18,9 @@ My goal is to build a strong foundation in **Core Java, Object-Oriented Programm
 - Improve logical thinking and problem-solving skills.
 - Solve coding problems relevant to technical interviews.
 - Write clean, readable, and efficient Java code.
+- Prepare for software engineering and Specialist Programmer opportunities.
+
+---
 
 ##  Technologies & Tools
 
@@ -25,12 +28,12 @@ My goal is to build a strong foundation in **Core Java, Object-Oriented Programm
 |---|---|
 | Java | Primary Programming Language |
 | JDK | Java Development Environment |
-| VS Code / IntelliJ IDEA | Code Editor / IDE |
+| VS Code | Code Editor |
 | Git & GitHub | Version Control and Code Management |
 
-## 📚 Learning Roadmap
+---
 
-The repository is organized into the following learning areas:
+##  Learning Roadmap
 
 | No. | Category | Topics |
 |---|---|---|
@@ -47,44 +50,96 @@ The repository is organized into the following learning areas:
 | 11 | Advanced DSA | Recursion, Backtracking, Greedy, Dynamic Programming |
 | 12 | Java Projects | Practical Java Applications |
 
+---
 
-##  How to Run the Programs
+##  Java Programs Completed
 
-**1. Clone the repository**
+Currently practicing Java programming through individual programs, focusing on logic building, mathematical problem-solving, and programming fundamentals.
+
+| No. | Program | Concept |
+|---|---|---|
+| 01 | Hello World | Basic Output |
+| 02 | Addition of Two Numbers | Input & Arithmetic |
+| 03 | Swap Two Numbers | Variables & Logic |
+| 04 | Even or Odd | Conditional Statements |
+| 05 | Largest of Three Numbers | Conditional Logic |
+| 06 | Leap Year | Conditions & Boolean Logic |
+| 07 | Positive, Negative or Zero | Conditional Statements |
+| 08 | Factorial of a Number | Loops |
+| 09 | Multiplication Table | Loops |
+| 10 | Reverse a Number | Arithmetic & Loops |
+| 11 | Palindrome Number | Number Logic |
+| 12 | Sum of Digits | Arithmetic & Loops |
+| 13 | Count Digits | Loops |
+| 14 | GCD Using Euclidean Algorithm | Mathematical Algorithms |
+| 15 | LCM Using GCD | Mathematical Algorithms |
+| 16 | Prime Number Check | Number Theory |
+| 17 | Prime Numbers in a Given Range | Loops & Prime Logic |
+
+<details>
+<summary><strong>Upcoming Programs</strong></summary>
+
+- Armstrong Number
+- Armstrong Numbers in a Range
+- Fibonacci Series
+- Pattern Programming
+- Arrays and Strings
+- Object-Oriented Programming
+- Data Structures and Algorithms
+- Java Mini Projects
+
+</details>
+
+---
+
+## ▶ How to Run the Programs
+
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/bharatsalunke07/code_with_java.git
 ```
 
-**2. Navigate to the repository**
+### 2. Navigate to the repository
 
 ```bash
 cd code_with_java
 ```
 
-**3. Compile a Java program**
+### 3. Compile a Java program
 
 ```bash
 javac AddTwoNumbers.java
 ```
 
-**4. Execute the program**
+### 4. Execute the program
 
 ```bash
 java AddTwoNumbers
 ```
+
+Replace `AddTwoNumbers` with the name of the Java program you want to execute.
+
+---
 
 ##  My Learning Goals
 
 - Master Core Java and OOP principles.
 - Develop strong DSA and algorithmic skills.
 - Practice coding problems of varying difficulty.
-- Improve time and space complexity analysis.
+- Understand time and space complexity.
+- Improve coding efficiency and logical thinking.
 - Prepare for technical interviews and Specialist Programmer opportunities.
+
+---
 
 ##  Contributions & Feedback
 
-This repository primarily documents my personal learning journey. Suggestions, improvements, and feedback are always welcome!
+This repository primarily documents my personal learning journey.
+
+Suggestions, improvements, and feedback are always welcome!
+
+---
 
 ##  About Me
 
